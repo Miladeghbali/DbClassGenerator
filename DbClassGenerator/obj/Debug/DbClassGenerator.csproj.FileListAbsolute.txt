@@ -1,0 +1,10 @@
+G:\Barname ntt\WorkSpaces\DbClassGenerator\DbClassGenerator\bin\Debug\DbClassGenerator.exe.config
+G:\Barname ntt\WorkSpaces\DbClassGenerator\DbClassGenerator\bin\Debug\DbClassGenerator.exe
+G:\Barname ntt\WorkSpaces\DbClassGenerator\DbClassGenerator\bin\Debug\DbClassGenerator.pdb
+G:\Barname ntt\WorkSpaces\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.csprojAssemblyReference.cache
+G:\Barname ntt\WorkSpaces\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.MainForm.resources
+G:\Barname ntt\WorkSpaces\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.Properties.Resources.resources
+G:\Barname ntt\WorkSpaces\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.csproj.GenerateResource.cache
+G:\Barname ntt\WorkSpaces\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.csproj.CoreCompileInputs.cache
+G:\Barname ntt\WorkSpaces\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.exe
+G:\Barname ntt\WorkSpaces\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.pdb
